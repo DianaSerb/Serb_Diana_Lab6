@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serb_Diana_Lab6", "Serb_Diana_Lab6.csproj", "{998961C9-7604-41B7-82D2-5A89A0C79A23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{13D56F16-DE06-462F-8835-7E5E547E93AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998961C9-7604-41B7-82D2-5A89A0C79A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998961C9-7604-41B7-82D2-5A89A0C79A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998961C9-7604-41B7-82D2-5A89A0C79A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998961C9-7604-41B7-82D2-5A89A0C79A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D56F16-DE06-462F-8835-7E5E547E93AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D56F16-DE06-462F-8835-7E5E547E93AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D56F16-DE06-462F-8835-7E5E547E93AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D56F16-DE06-462F-8835-7E5E547E93AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F5ECEF-8768-4B68-976B-0F6B31471C00}
+	EndGlobalSection
+EndGlobal
